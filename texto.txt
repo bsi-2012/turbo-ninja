@@ -1,4 +1,4 @@
-Teeeeeeeeeeeeeeeeeeeeeeeeeste que funcionou?
+Te&eeeeeeeeeeeeeeeeeeeeeeeste que funcionou?
 
 OH RLY?
 
@@ -6,3 +6,6 @@ https://rails-assets.org/ ou https://github.com/42dev/bower-rails qual eu devo u
 PG ou MySQL? Qual eu devo usar?
 
 Oreo vs Passatempo, qual é a melhor?
+
+
+Y'RLY
